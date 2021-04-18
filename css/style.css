@@ -453,6 +453,15 @@ nav.main-menu {
     background-size: 100%;
     background-repeat: no-repeat;
 }
+.about_section2 {
+     width: 100%;
+     float: left;
+     background-image: url(../images/PETSHOP9.jpg);
+     height: 500px;
+     padding: 70px 0px;
+     background-size: 100%;
+     background-repeat: no-repeat;
+ }
 .about_taital {
     width: 62%;
     margin: 0 auto;
@@ -462,14 +471,16 @@ nav.main-menu {
     border-bottom: 4px solid#ea5514;
 }
 
+
 .lorem_text{
      width: 100%;
      float: left;
-     font-size: 13pt;
+     font-size: 15pt;
      color: #161313;
      text-align: center;
      padding-top: 20px;
      font-weight: 500;
+     
 }
 
 .clients_section{
